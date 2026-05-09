@@ -1,5 +1,5 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-services-tools)](https://api.reuse.software/info/github.com/SAP-samples/security-services-tools)
-# Security Services Tools
+# Security Services Tools - Inactive - Do not use!
 
 ## Description
 
